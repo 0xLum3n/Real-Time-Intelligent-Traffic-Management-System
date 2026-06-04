@@ -206,6 +206,43 @@ Run:
 
 ---
 
+## 📂 Project Structure
+
+
+smart-traffic-management-system/
+│
+├── bin/                          # Compiled executables generated after build
+│
+├── build/                        # Object files and intermediate build artifacts
+│
+├── data/                         # Sample datasets used for testing
+│   └── sample_traffic.csv        # Example train arrival/departure schedule
+│
+├── docs/                         # Project documentation
+│   ├── Train Platform Management System Report.pdf
+│   │                             # Complete project report
+│   └── flowchart.png             # Algorithm workflow diagram
+│
+├── include/                      # Header files
+│   └── scheduling.h              # Function declarations and constants
+│
+├── scripts/                      # Utility and automation scripts
+│   └── setup_env.sh              # Environment setup helper script
+│
+├── src/                          # Main source code
+│   └── main.c                    # Greedy platform allocation implementation
+│
+├── tests/                        # Unit and validation tests
+│   └── test.scheduling.c         # Test cases for scheduling logic
+│
+├── .gitignore                    # Files/folders ignored by Git
+│
+├── CONTRIBUTORS.md               # Team member information and roles
+│
+├── LICENSE                       # Project license
+│
+└── README.md                     # Main project documentation
+
 ## 🙏 Acknowledgement
 
 We sincerely thank our faculty guide, Ms. Kaifa Sultana, for her valuable guidance and support throughout this project. We are also grateful to our department and institution for providing the necessary resources and environment for successful project development.
