@@ -208,20 +208,19 @@ Run:
 
 ## 📂 Project Structure
 
-
+```text
 smart-traffic-management-system/
 │
-├── bin/                          # Compiled executables generated after build
+├── bin/                          # Generated executables after compilation
 │
-├── build/                        # Object files and intermediate build artifacts
+├── build/                        # Intermediate build artifacts and object files
 │
 ├── data/                         # Sample datasets used for testing
-│   └── sample_traffic.csv        # Example train arrival/departure schedule
+│   └── sample_traffic.csv        # Example train arrival and departure schedule
 │
 ├── docs/                         # Project documentation
-│   ├── Train Platform Management System Report.pdf
-│   │                             # Complete project report
-│   └── flowchart.png             # Algorithm workflow diagram
+│   ├── Project_Report.pdf        # Complete academic project report
+│   └── flowchart.png             # Workflow diagram of the scheduling process
 │
 ├── include/                      # Header files
 │   └── scheduling.h              # Function declarations and constants
@@ -229,20 +228,20 @@ smart-traffic-management-system/
 ├── scripts/                      # Utility and automation scripts
 │   └── setup_env.sh              # Environment setup helper script
 │
-├── src/                          # Main source code
+├── src/                          # Core source code
 │   └── main.c                    # Greedy platform allocation implementation
 │
-├── tests/                        # Unit and validation tests
-│   └── test.scheduling.c         # Test cases for scheduling logic
+├── tests/                        # Test cases and validation modules
+│   └── test.scheduling.c         # Scheduling logic test suite
 │
-├── .gitignore                    # Files/folders ignored by Git
+├── .gitignore                    # Git ignore rules
 │
-├── CONTRIBUTORS.md               # Team member information and roles
+├── CONTRIBUTORS.md               # Team member information and contributions
 │
-├── LICENSE                       # Project license
+├── LICENSE                       # Project license information
 │
-└── README.md                     # Main project documentation
-
+└── README.md                     # Project overview and documentation
+```
 ## 🙏 Acknowledgement
 
 We sincerely thank our faculty guide, Ms. Kaifa Sultana, for her valuable guidance and support throughout this project. We are also grateful to our department and institution for providing the necessary resources and environment for successful project development.
