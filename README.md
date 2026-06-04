@@ -241,6 +241,9 @@ smart-traffic-management-system/
 ├── LICENSE                       # Project license information
 │
 └── README.md                     # Project overview and documentation
+
+!! Note that right now only the /src & /docs are in a condition for use , other files are junk data !! 
+
 ```
 ## 🙏 Acknowledgement
 
