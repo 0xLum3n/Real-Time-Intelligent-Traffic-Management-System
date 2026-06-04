@@ -1,0 +1,45 @@
+# Build files
+
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.a
+
+# Compiled program
+
+traffic_simulator
+platform_manager
+
+# Logs
+
+*.log
+traffic_log.csv
+
+# IDE files
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Backup files
+
+*.bak
+*~
+
+# Generated folders
+
+build/
+bin/
+dist/
