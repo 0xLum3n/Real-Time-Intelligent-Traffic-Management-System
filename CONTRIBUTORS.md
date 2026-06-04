@@ -1,66 +1,66 @@
-\# Contributors
+# Contributors
 
 
 
-\## Team Members
+## Team Members
 
 
 
-\- Pranjal Das Sarma (Project Lead)
+- Pranjal Das Sarma (Project Lead)
 
-\- Kunal Das
+- Kunal Das
 
-\- Simi Mallick
+- Simi Mallick
 
-\- Debmalya Guria
+- Debmalya Guria
 
-\- Chandan Pal
-
-
-
-\## Responsibilities
+- Chandan Pal
 
 
 
-\### Pranjal Das Sarma
-
-\- GitHub Project Link
-
-\- Time Complexity
+## Responsibilities
 
 
 
-\### Kunal Das
+### Pranjal Das Sarma
 
-\- Flow Diagram 
+- GitHub Project Link
 
-\- Algorithm 
-
-
-
-\### Simi Mallick
-
-\- Problem Statement
-
-\- Application Area
+- Time Complexity
 
 
 
-\### Debmalya Guria
+### Kunal Das
 
-\- Acknowledgement
+- Flow Diagram 
 
-\- Conclusion
-
-\- References
+- Algorithm 
 
 
 
-\### Chandan Pal
+### Simi Mallick
 
-\- Source Code
+- Problem Statement
 
-\- Input and Output
+- Application Area
+
+
+
+### Debmalya Guria
+
+- Acknowledgement
+
+- Conclusion
+
+- References
+
+
+
+### Chandan Pal
+
+- Source Code
+
+- Input and Output
 
 
 
